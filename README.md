@@ -1,7 +1,7 @@
 # java-fundamentals
 
 <h1>Java OOPs Questions</h1>
-<p>This GitHub repository contains a set of Java OOPs questions related to electricity bills calculation, bank account withdrawals, employee salary calculation, and more. These questions can be used to assess your understanding of object-oriented programming concepts in Java.</p>
+<p>This GitHub repository contains a set of Java OOPs questions related to electricity bills calculation, bank account withdrawals, employee salary calculation, and more.</p>
 <h2>Contents</h2>
 <p>The repository contains the following files:</p>
 <ul>
