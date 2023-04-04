@@ -1,4 +1,4 @@
-// Program to simulate a basic bank account
+// Program to show a basic bank account
 import java.util.Scanner;
 public class bank
 {
