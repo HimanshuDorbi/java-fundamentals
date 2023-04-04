@@ -15,6 +15,6 @@
 <p>If you have any questions, suggestions, or improvements, please feel free to contribute to this repository by submitting a pull request. Your contributions are highly appreciated.</p>
 <p><br> </p>
 <h2>License</h2>
-<p>This repository is licensed under the MIT License. You are free to use, modify, and distribute this code for any purpose, commercial or non-commercial.</p>
+<p>You are free to use, modify, and distribute this code for any purpose, commercial or non-commercial.</p>
 <h2>Author</h2>
 Himanshu Dorbi 
