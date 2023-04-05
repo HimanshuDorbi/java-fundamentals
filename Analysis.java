@@ -1,3 +1,10 @@
+
+// Write a Java program that allows the user to input the marks obtained by five students in three different subjects (TCS1, TCS2, TCS3) and then calculates the outputs for following information:
+
+// Total marks obtained by each student
+// The student who scored the highest total marks
+// The highest marks obtained in each subject and the roll number of the student who scored it.
+
 import java.util.Scanner;
 
 public class Analysis {
